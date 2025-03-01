@@ -11,6 +11,7 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fram3y&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fram3y&layout=compact&theme=radical)](https://github.com/fram3y/github-readme-stats)
 
 ---
 🚀 Always open to collaboration and learning new things!  
