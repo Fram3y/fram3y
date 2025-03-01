@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/Version_Control-GitHub-black?logo=github)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fram3y&show_icons=true&theme=dark)
 
 ---
 🚀 Always open to collaboration and learning new things!  
