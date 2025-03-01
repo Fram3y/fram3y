@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Sam!
 
 🔹 Full Stack Developer | Game Developer  
-🔹 Passionate about Game Design and Web Development.
-🔹 Always learning and building cool, creative projects.
+🔹 Passionate about Game Design and Web Development  
+🔹 Always learning and building cool, creative projects  
 
 ## 🔧 Technologies & Tools
 
