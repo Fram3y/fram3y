@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sam!
 
-<!--
-**Fram3y/fram3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Full Stack Developer | Game Developer  
+🔹 Passionate about Unity, C#, and Game Design  
+🔹 Always learning and building cool projects  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![Unity](https://img.shields.io/badge/Engine-Unity-blue?logo=unity)
+![C#](https://img.shields.io/badge/Language-C%23-blue?logo=csharp)
+![GitHub](https://img.shields.io/badge/Version_Control-GitHub-black?logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+---
+🚀 Always open to collaboration and learning new things!  
+📫 Reach me on my LinkedIn or my Gmail
+
