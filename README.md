@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Sam!
 
 🔹 Full Stack Developer | Game Developer  
-🔹 Passionate about Unity, C#, and Game Design  
-🔹 Always learning and building cool projects  
+🔹 Passionate about Game Design and Web Development.
+🔹 Always learning and building cool, creative projects.
 
 ## 🔧 Technologies & Tools
 
@@ -48,4 +48,5 @@
 
 ---
 🚀 Always open to collaboration and learning new things!  
-📫 Reach me on [LinkedIn](#) or [Gmail](#)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samuel-downey-910999239/) or [Email](mailto:downeysam2002@gmail.com)
+
